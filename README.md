@@ -86,14 +86,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/your-username/industrial-iot-platform
+Monis Ahmed Rizvi - monisahmedrizvi@gmail.com
+Project Link: https://github.com/Monis-Ahmed-Rizvi/industrial-iot-platform
 
 ## Acknowledgements
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [MongoDB](https://www.mongodb.com/)
 - [Lombok](https://projectlombok.org/)
 - [Maven](https://maven.apache.org/)
-=======
+
 
 
