@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Industrial IoT Platform for Natural Gas Production
 
 ## Project Overview
@@ -96,6 +95,5 @@ Project Link: https://github.com/your-username/industrial-iot-platform
 - [Lombok](https://projectlombok.org/)
 - [Maven](https://maven.apache.org/)
 =======
-# industrial-iot-platform-
-An Industrial IoT Platform for processing and analyzing natural gas production data
->>>>>>> origin/main
+
+
